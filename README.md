@@ -3,8 +3,6 @@
 
 This repository presents a **Power BI dashboard project** that analyzes Zomato-style food delivery data. It includes insights about **sales performance, user behavior, city-wise distribution**, and **food category preferences** using a curated set of Excel datasets.
 
-> 📌 **Note:** This project is a **self-driven independent work** and is **not part of any internship**. It was created solely for educational, analytical, and portfolio purposes.
-
 ---
 
 ## 📂 Files Included
@@ -82,11 +80,12 @@ This repository presents a **Power BI dashboard project** that analyzes Zomato-s
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♀️ Author
 
-**Your Name**  
-📧 Email: *your.email@example.com*  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+Developed by **Marmik Gandhi** Feel free to connect:  
+- GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)
+- Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
+- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi-006a55323/)
 
 ---
 
