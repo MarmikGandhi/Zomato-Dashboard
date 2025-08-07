@@ -85,7 +85,7 @@ This repository presents a **Power BI dashboard project** that analyzes Zomato-s
 Developed by **Marmik Gandhi** Feel free to connect:  
 - GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)
 - Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
-- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi-006a55323/)
+- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi/)
 
 ---
 
